@@ -1,0 +1,2 @@
+# AB Testing Result Analysis on Conversion Rate
+At company XYZ, France-based users have a higher conversion rate than any other French speaking countries. The initial solution was to hire local translator for each country instead of using the same translator done by a French local. However, after using the localized translation, the conversion rate for other French speaking countries got even worse. This repository will attempt to answer why this happened.
